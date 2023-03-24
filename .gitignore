@@ -1,5 +1,8 @@
 #Personal .gitignores
 config.json
+#End of Personal .gitignores
+
+#Created by https://gist.github.com/andreasonny83
 
 # compiled output
 /dist
